@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": "5555",  
+  "routesPath": "routes",
+  "responsesPath": "responses"
+}

@@ -1,0 +1,34 @@
+should be able to load a matchlist,
+
+but you should also be able to switch between matchlists to match expectationis.
+
+for example, I want a call to address a to return a successful result, but I also want to resturn a bad result, so I ccan test what happens when you run different results.
+
+so what these things called?
+
+a matchlist...
+
+a dictionary.
+
+change dictionary.
+
+change responses
+
+responseList
+
+changeResponse.
+
+set the response list.
+
+a response list is just a list of addresses and response files
+
+responses
+
+routes
+
+responses
+
+
+the app opens the default routes file if one exists, or none if there is none.
+
+
